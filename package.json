@@ -27,8 +27,8 @@
   },
   "homepage": "https://github.com/hoang-rio/AC-QRCode-RN#readme",
   "dependencies": {
+    "lodash": "^4.17.14",
     "prop-types": "^15.6.2",
-    "react-native-camera": "^1.1.4",
-    "lodash": "^4.17.11"
+    "react-native-camera": "^1.1.4"
   }
 }
